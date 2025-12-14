@@ -1,0 +1,49 @@
+Order ID,Date,Product,Category,Quantity,Price,Total Sales,Region
+A001,2024-01-05,Wireless Mouse,Electronics,2,599,1198,South
+A002,2024-01-07,Keyboard,Electronics,1,899,899,West
+A003,2024-01-08,USB Cable,Accessories,3,199,597,North
+A004,2024-01-09,Phone Case,Accessories,2,299,598,East
+A005,2024-01-10,Laptop Stand,Office,1,1299,1299,South
+A006,2024-01-11,Smartwatch,Electronics,1,4999,4999,West
+A007,2024-01-12,Headphones,Electronics,2,1599,3198,North
+A008,2024-01-13,Notebook,Office,5,99,495,East
+A009,2024-01-14,Monitor,Electronics,1,8999,8999,South
+A010,2024-01-15,Pen Drive,Accessories,4,499,1996,West
+A011,2024-01-16,Tablet,Electronics,1,14999,14999,North
+A012,2024-01-17,Desk Lamp,Office,1,799,799,East
+A013,2024-01-18,Mouse Pad,Accessories,2,149,298,South
+A014,2024-01-19,Bluetooth Speaker,Electronics,1,2999,2999,West
+A015,2024-01-20,Charger,Accessories,2,799,1598,North
+
+A016,2024-02-01,Wireless Mouse,Electronics,3,599,1797,East
+A017,2024-02-02,Keyboard,Electronics,2,899,1798,South
+A018,2024-02-03,USB Cable,Accessories,5,199,995,West
+A019,2024-02-04,Phone Case,Accessories,3,299,897,North
+A020,2024-02-05,Laptop Stand,Office,2,1299,2598,East
+A021,2024-02-06,Smartwatch,Electronics,1,4799,4799,South
+A022,2024-02-07,Headphones,Electronics,3,1599,4797,West
+A023,2024-02-08,Notebook,Office,6,99,594,North
+A024,2024-02-09,Monitor,Electronics,2,8999,17998,East
+A025,2024-02-10,Pen Drive,Accessories,5,499,2495,South
+A026,2024-02-11,Tablet,Electronics,1,14999,14999,West
+A027,2024-02-12,Desk Lamp,Office,2,799,1598,North
+A028,2024-02-13,Mouse Pad,Accessories,4,149,596,East
+A029,2024-02-14,Bluetooth Speaker,Electronics,2,2999,5998,South
+A030,2024-02-15,Charger,Accessories,3,799,2397,West
+
+A031,2024-03-01,Wireless Mouse,Electronics,4,599,2396,North
+A032,2024-03-02,Keyboard,Electronics,2,899,1798,East
+A033,2024-03-03,USB Cable,Accessories,6,199,1194,South
+A034,2024-03-04,Phone Case,Accessories,4,299,1196,West
+A035,2024-03-05,Laptop Stand,Office,1,1299,1299,North
+A036,2024-03-06,Smartwatch,Electronics,2,4999,9998,East
+A037,2024-03-07,Headphones,Electronics,3,1599,4797,South
+A038,2024-03-08,Notebook,Office,8,99,792,West
+A039,2024-03-09,Monitor,Electronics,1,8999,8999,North
+A040,2024-03-10,Pen Drive,Accessories,6,499,2994,East
+A041,2024-03-11,Tablet,Electronics,2,14999,29998,South
+A042,2024-03-12,Desk Lamp,Office,3,799,2397,West
+A043,2024-03-13,Mouse Pad,Accessories,5,149,745,North
+A044,2024-03-14,Bluetooth Speaker,Electronics,3,2999,8997,East
+A045,2024-03-15,Charger,Accessories,4,799,3196,South
+
